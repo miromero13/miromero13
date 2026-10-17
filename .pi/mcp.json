@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "!bash -c '[ -n \"$GITHUB_PERSONAL_ACCESS_TOKEN\" ] && echo \"$GITHUB_PERSONAL_ACCESS_TOKEN\" || grep -E \"^GITHUB_PERSONAL_ACCESS_TOKEN=\" .env 2>/dev/null | cut -d= -f2- | tr -d \"\\\"'\\''\\r\\n\"'"
+      },
+      "description": "Servidor oficial MCP de GitHub para inspeccionar, ordenar y gestionar repositorios"
+    }
+  }
+}
