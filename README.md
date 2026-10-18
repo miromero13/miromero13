@@ -66,10 +66,10 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 
 | Architecture / Project | Description | Key Tech | Link |
 | :--- | :--- | :--- | :---: |
-| **Microservices Backend Ecosystem** | Resilient backend architecture built with decoupled services, event handling, and containerized deployment. | `NestJS` `PostgreSQL` `Docker` `AWS` | [Repository](#) |
-| **Cross-Platform Mobile Solution** | Production-ready mobile application with state management, offline-first sync, and smooth animations. | `Flutter` `Riverpod` `Node.js` | [Repository](#) |
-| **AI & Conversational Assistant** | Intelligent workflow engine combining LLM reasoning, structured data retrieval, and messaging connectors. | `NestJS` `TypeScript` `OpenAI` `Gemini` | [Repository](#) |
-| **Full-Stack Enterprise Dashboard** | Interactive dashboard with role-based access control (RBAC), data visualization, and payment processing. | `React` `Tailwind` `Stripe` `PostgreSQL` | [Repository](#) |
+| **[Smart Condominium Ecosystem](https://github.com/miromero13/condominium)** | End-to-end residential platform with facial & ALPR access control, reservations, and online payments. | `Flutter` `React` `Django` `AWS Rekognition` `Stripe` | [View Project](https://github.com/miromero13/condominium) |
+| **[Diagrammer | AI UML Platform](https://github.com/miromero13/diagrammer)** | Real-time collaborative UML diagramming with AI assistance and automated Spring Boot code synthesis. | `React` `NestJS` `WebSockets` `Spring Boot` | [View Project](https://github.com/miromero13/diagrammer) |
+| **[Finance Platform Monorepo](https://github.com/miromero13/finance)** | Full-stack financial accounting system for balance sheets, equity breakdown, and real-time liquidity ratios. | `React` `Vite` `Tailwind` `NestJS` `PostgreSQL` | [View Project](https://github.com/miromero13/finance) |
+| **[Design UI | Visual Page Builder](https://github.com/miromero13/design-ui)** | Interactive drag-and-drop UI canvas with LLM layout generation and executable Flutter code export. | `React` `Craft.js` `Tailwind` `NestJS` `OpenAI` | [View Project](https://github.com/miromero13/design-ui) |
 
 ---
 
@@ -110,10 +110,10 @@ Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM*
 
 | Arquitectura / Proyecto | Descripción | Tecnologías Clave | Enlace |
 | :--- | :--- | :--- | :---: |
-| **Ecosistema Backend en Microservicios** | Arquitectura backend resiliente con servicios desacoplados, manejo de eventos y despliegue contenerizado. | `NestJS` `PostgreSQL` `Docker` `AWS` | [Repositorio](#) |
-| **Solución Móvil Multiplataforma** | Aplicación móvil lista para producción con sincronización offline y alto rendimiento. | `Flutter` `Node.js` `App Store` | [Repositorio](#) |
-| **Asistente Inteligente e Integraciones IA** | Motor de flujos conectando razonamiento de LLMs, APIs de mensajería y datos estructurados. | `NestJS` `TypeScript` `OpenAI` `Gemini` | [Repositorio](#) |
-| **Plataforma Web Full-Stack & Pagos** | Panel administrativo empresarial con control de acceso por roles (RBAC) y pasarela de cobros. | `React` `Tailwind` `Stripe` `PostgreSQL` | [Repositorio](#) |
+| **[Ecosistema Condominio Inteligente](https://github.com/miromero13/condominium)** | Solución integral con control de acceso por reconocimiento facial y placas (ALPR), reservas y pagos online. | `Flutter` `React` `Django` `AWS Rekognition` `Stripe` | [Ver Proyecto](https://github.com/miromero13/condominium) |
+| **[Diagrammer | Modelado UML con IA](https://github.com/miromero13/diagrammer)** | Plataforma colaborativa en tiempo real con WebSockets y síntesis automática de código ejecutable Spring Boot. | `React` `NestJS` `WebSockets` `Spring Boot` | [Ver Proyecto](https://github.com/miromero13/diagrammer) |
+| **[Plataforma Financiera Monorepo](https://github.com/miromero13/finance)** | Sistema contable y financiero full-stack para balances generales, análisis patrimonial y ratios de liquidez. | `React` `Vite` `Tailwind` `NestJS` `PostgreSQL` | [Ver Proyecto](https://github.com/miromero13/finance) |
+| **[Design UI | Creador Visual de Interfaces](https://github.com/miromero13/design-ui)** | Canvas drag-and-drop con Craft.js, generación de layouts asistida por IA y exportación a código Flutter. | `React` `Craft.js` `Tailwind` `NestJS` `OpenAI` | [Ver Proyecto](https://github.com/miromero13/design-ui) |
 
 </details>
 
