@@ -62,32 +62,6 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 
 ---
 
-## Architectural Workflow
-
-```mermaid
-flowchart LR
-    subgraph Clients["Clients & Interfaces"]
-        A[Flutter / React Native]
-        B[React / Angular Web SPAs]
-    end
-
-    subgraph Core["Backend & Services"]
-        C[NestJS / Node.js Microservices]
-        D[Django / Python APIs]
-        G[AI Integrations: OpenAI / Gemini / AWS]
-    end
-
-    subgraph Data["Data & Infrastructure"]
-        E[(PostgreSQL / MongoDB)]
-        F[Docker / AWS / Nginx / CI/CD]
-    end
-
-    Clients <-->|RESTful APIs / WebSockets| Core
-    Core <-->|TypeORM / ORMs / S3| Data
-```
-
----
-
 ## 📂 Featured Projects & Architectures
 
 | Project | Description | Key Tech | Repository |
@@ -110,7 +84,7 @@ flowchart LR
 ---
 
 <details>
-<summary><b>🇪🇸 Haz clic aquí para ver la versión en Español</b></summary>
+<summary><b>Haz clic aquí para ver la versión en Español</b></summary>
 
 <br>
 
