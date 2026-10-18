@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
 I am a Software Engineer and Systems Engineering student at **UAGRM**, focused on designing, building, and deploying scalable web and mobile solutions. My expertise ranges from developing high-performance cross-platform mobile apps to designing decoupled microservices architectures in the cloud.
 
@@ -19,7 +19,7 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 
 ---
 
-## Technical Stack & Tooling
+## 🛠️ Technical Stack & Tooling
 
 ### **Languages & Core**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -88,7 +88,7 @@ flowchart LR
 
 ---
 
-## Featured Projects & Architectures
+## 📂 Featured Projects & Architectures
 
 | Project | Description | Key Tech | Repository |
 | :--- | :--- | :--- | :---: |
@@ -99,7 +99,7 @@ flowchart LR
 
 ---
 
-## GitHub Analytics & Activity
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miromero13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
@@ -119,7 +119,7 @@ flowchart LR
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
 Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM**, orientada al diseño, construcción y despliegue de soluciones web y móviles escalables. Mi experiencia abarca desde el desarrollo de aplicaciones móviles multiplataforma de alto rendimiento hasta el diseño de arquitecturas de microservicios desacopladas y contenerizadas en la nube.
 
@@ -130,7 +130,7 @@ Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM*
 
 ---
 
-## Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 - **Lenguajes:** TypeScript, JavaScript, Python, Java, Kotlin, Dart.
 - **Frontend (Web):** React, Angular, Tailwind CSS, Material UI, Shadcn UI.
@@ -142,7 +142,7 @@ Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM*
 
 ---
 
-## Proyectos Destacados
+## 📂 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías Clave | Repositorio |
 | :--- | :--- | :--- | :---: |
