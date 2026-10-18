@@ -62,6 +62,32 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 
 ---
 
+## 🏛️ Architectural Workflow
+
+```mermaid
+flowchart LR
+    subgraph Clients["📱 Clients & Interfaces"]
+        A[Flutter / React Native]
+        B[React / Angular Web SPAs]
+    end
+
+    subgraph Core["⚙️ Backend & Services"]
+        C[NestJS / Node.js Microservices]
+        D[Django / Python APIs]
+        G[AI Integrations: OpenAI / Gemini / AWS]
+    end
+
+    subgraph Data["☁️ Data & Cloud Infrastructure"]
+        E[(PostgreSQL / MongoDB)]
+        F[Docker / AWS / Nginx / CI/CD]
+    end
+
+    Clients <-->|RESTful APIs / WebSockets| Core
+    Core <-->|TypeORM / ORMs / S3| Data
+```
+
+---
+
 ## 📂 Featured Projects & Architectures
 
 | Project | Description | Key Tech | Repository |
@@ -70,6 +96,16 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 | **Design UI**<br><sub>Visual Page Builder</sub> | Drag-and-drop UI canvas with Craft.js, LLM layout synthesis, and Flutter template export. | `React` `Craft.js` `NestJS` `OpenAI` | [View Project ↗](https://github.com/miromero13/design-ui) |
 | **Visor Datos SIG**<br><sub>Spatial GIS Viewer</sub> | Spatial GIS data migration from Shapefile to SQL Server with interactive responsive cartographic viewer. | `React` `ASP.NET Core` `Leaflet` `SQL Server` | [View Project ↗](https://github.com/miromero13/visor-datos-sig) |
 | **SkillMatch**<br><sub>AI Skill Swapping</sub> | Collaborative skill exchange SaaS with multi-domain AI technical validation (AST, Audio, Vision). | `React` `Python` `AI Engine` `QR Verified` | [View Project ↗](https://github.com/miromero13/skill-match) |
+
+---
+
+## 📊 GitHub Analytics & Stack Distribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miromero13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromero13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="155" />
+</div>
 
 ---
 
