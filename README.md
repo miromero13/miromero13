@@ -8,18 +8,18 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a Software Engineer and Systems Engineering student at **UAGRM**, focused on designing, building, and deploying scalable web and mobile solutions. My expertise ranges from developing high-performance cross-platform mobile apps to designing decoupled microservices architectures in the cloud.
 
-- 🔭 **Currently:** Building and optimizing mobile & web applications at **Nuxio**, managing production releases for Google Play Store and Apple App Store.
-- 🧠 **Backend & Architecture:** Designing resilient microservices and RESTful APIs with **Node.js** and **NestJS**, prioritizing clean architecture, high throughput, and scalability.
-- 🤖 **Integrations & AI:** Implementing LLM-driven workflows (OpenAI, Gemini), payment gateways (Stripe), and messaging APIs (WhatsApp, Meta, TikTok).
-- ⚡ **Agile Leadership:** Acting as Scrum Master to streamline delivery cadences, facilitate ceremonies, and enforce CI/CD and Git best practices.
+- **Currently:** Building and optimizing mobile & web applications at **Nuxio**, managing production releases for Google Play Store and Apple App Store.
+- **Backend & Architecture:** Designing resilient microservices and RESTful APIs with **Node.js** and **NestJS**, prioritizing clean architecture, high throughput, and scalability.
+- **Integrations & AI:** Implementing LLM-driven workflows (OpenAI, Gemini), payment gateways (Stripe), and messaging APIs (WhatsApp, Meta, TikTok).
+- **Agile Leadership:** Acting as Scrum Master to streamline delivery cadences, facilitate ceremonies, and enforce CI/CD and Git best practices.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## Technical Stack & Tooling
 
 ### **Languages & Core**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -62,22 +62,22 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 
 ---
 
-## 🏛️ Architectural Workflow
+## Architectural Workflow
 
 ```mermaid
 flowchart LR
-    subgraph Clients["📱 Clients & Interfaces"]
+    subgraph Clients["Clients & Interfaces"]
         A[Flutter / React Native]
         B[React / Angular Web SPAs]
     end
 
-    subgraph Core["⚙️ Backend & Services"]
+    subgraph Core["Backend & Services"]
         C[NestJS / Node.js Microservices]
         D[Django / Python APIs]
         G[AI Integrations: OpenAI / Gemini / AWS]
     end
 
-    subgraph Data["☁️ Data & Cloud Infrastructure"]
+    subgraph Data["Data & Infrastructure"]
         E[(PostgreSQL / MongoDB)]
         F[Docker / AWS / Nginx / CI/CD]
     end
@@ -88,7 +88,7 @@ flowchart LR
 
 ---
 
-## 📂 Featured Projects & Architectures
+## Featured Projects & Architectures
 
 | Project | Description | Key Tech | Repository |
 | :--- | :--- | :--- | :---: |
@@ -99,7 +99,7 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Analytics & Stack Distribution
+## GitHub Analytics & Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miromero13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
@@ -119,18 +119,18 @@ flowchart LR
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
 Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM**, orientada al diseño, construcción y despliegue de soluciones web y móviles escalables. Mi experiencia abarca desde el desarrollo de aplicaciones móviles multiplataforma de alto rendimiento hasta el diseño de arquitecturas de microservicios desacopladas y contenerizadas en la nube.
 
-- 🔭 **Actualmente:** Desarrollando y optimizando aplicaciones móviles y web en **Nuxio**, gestionando entornos y publicaciones a producción en Google Play Store y Apple App Store.
-- 🧠 **Backend y Arquitectura:** Diseñando microservicios y APIs REST resilientes con **Node.js** y **NestJS**, priorizando arquitectura limpia, rendimiento y escalabilidad.
-- 🤖 **Integraciones e IA:** Implementando flujos con modelos de lenguaje (OpenAI, Gemini), pasarelas de pago (Stripe) y APIs de mensajería/redes (WhatsApp, Meta, TikTok).
-- ⚡ **Liderazgo Ágil:** Desempeñándome como Scrum Master para optimizar ciclos de entrega, facilitar ceremonias ágiles y asegurar buenas prácticas en CI/CD y Git.
+- **Actualmente:** Desarrollando y optimizando aplicaciones móviles y web en **Nuxio**, gestionando entornos y publicaciones a producción en Google Play Store y Apple App Store.
+- **Backend y Arquitectura:** Diseñando microservicios y APIs REST resilientes con **Node.js** y **NestJS**, priorizando arquitectura limpia, rendimiento y escalabilidad.
+- **Integraciones e IA:** Implementando flujos con modelos de lenguaje (OpenAI, Gemini), pasarelas de pago (Stripe) y APIs de mensajería/redes (WhatsApp, Meta, TikTok).
+- **Liderazgo Ágil:** Desempeñándome como Scrum Master para optimizar ciclos de entrega, facilitar ceremonias ágiles y asegurar buenas prácticas en CI/CD y Git.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **Lenguajes:** TypeScript, JavaScript, Python, Java, Kotlin, Dart.
 - **Frontend (Web):** React, Angular, Tailwind CSS, Material UI, Shadcn UI.
@@ -142,7 +142,7 @@ Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM*
 
 ---
 
-## 📂 Arquitecturas y Proyectos Destacados
+## Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías Clave | Repositorio |
 | :--- | :--- | :--- | :---: |
