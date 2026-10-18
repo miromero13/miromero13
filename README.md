@@ -64,12 +64,12 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 
 ## 📂 Featured Projects & Architectures
 
-| Architecture / Project | Description | Key Tech | Link |
+| Project | Description | Key Tech | Repository |
 | :--- | :--- | :--- | :---: |
-| **[Diagrammer | AI UML Platform](https://github.com/miromero13/diagrammer)** | Real-time collaborative UML modeling with AI assistance and automated Spring Boot executable code synthesis. | `React` `NestJS` `WebSockets` `Spring Boot` | [View Project](https://github.com/miromero13/diagrammer) |
-| **[Design UI | Visual Page Builder](https://github.com/miromero13/design-ui)** | Interactive drag-and-drop UI builder with Craft.js, LLM layout generation, and direct Flutter code export. | `React` `Craft.js` `NestJS` `OpenAI` `Flutter` | [View Project](https://github.com/miromero13/design-ui) |
-| **[Visor Datos SIG](https://github.com/miromero13/visor-datos-sig)** | Spatial GIS data migration from Shapefile to SQL Server with interactive responsive cartographic viewer. | `React` `ASP.NET Core` `Leaflet` `SQL Server` | [View Project](https://github.com/miromero13/visor-datos-sig) |
-| **[SkillMatch | AI Skill Swapping](https://github.com/miromero13/skill-match)** | Collaborative skill exchange SaaS with multi-domain AI technical validation (AST, Audio, Computer Vision). | `React` `Python` `AI Engine` `QR Credentials` | [View Project](https://github.com/miromero13/skill-match) |
+| **Diagrammer**<br><sub>AI UML Modeling</sub> | Real-time collaborative UML modeling with AI assistance and automated Spring Boot code synthesis. | `React` `NestJS` `WebSockets` `Spring Boot` | [View Project ↗](https://github.com/miromero13/diagrammer) |
+| **Design UI**<br><sub>Visual Page Builder</sub> | Drag-and-drop UI canvas with Craft.js, LLM layout synthesis, and Flutter template export. | `React` `Craft.js` `NestJS` `OpenAI` | [View Project ↗](https://github.com/miromero13/design-ui) |
+| **Visor Datos SIG**<br><sub>Spatial GIS Viewer</sub> | Spatial GIS data migration from Shapefile to SQL Server with interactive responsive cartographic viewer. | `React` `ASP.NET Core` `Leaflet` `SQL Server` | [View Project ↗](https://github.com/miromero13/visor-datos-sig) |
+| **SkillMatch**<br><sub>AI Skill Swapping</sub> | Collaborative skill exchange SaaS with multi-domain AI technical validation (AST, Audio, Vision). | `React` `Python` `AI Engine` `QR Verified` | [View Project ↗](https://github.com/miromero13/skill-match) |
 
 ---
 
@@ -108,12 +108,12 @@ Soy Ingeniera de Software y estudiante de Ingeniería en Sistemas en la **UAGRM*
 
 ## 📂 Arquitecturas y Proyectos Destacados
 
-| Arquitectura / Proyecto | Descripción | Tecnologías Clave | Enlace |
+| Proyecto | Descripción | Tecnologías Clave | Repositorio |
 | :--- | :--- | :--- | :---: |
-| **[Diagrammer | Modelado UML con IA](https://github.com/miromero13/diagrammer)** | Plataforma colaborativa en tiempo real con WebSockets y síntesis automática de código ejecutable Spring Boot. | `React` `NestJS` `WebSockets` `Spring Boot` | [Ver Proyecto](https://github.com/miromero13/diagrammer) |
-| **[Design UI | Creador Visual de Interfaces](https://github.com/miromero13/design-ui)** | Canvas drag-and-drop con Craft.js, generación de layouts asistida por IA y exportación a código Flutter. | `React` `Craft.js` `NestJS` `OpenAI` `Flutter` | [Ver Proyecto](https://github.com/miromero13/design-ui) |
-| **[Visor Datos SIG](https://github.com/miromero13/visor-datos-sig)** | Sistema web SIG para migrar datos espaciales Shapefile a SQL Server con visor interactivo responsivo. | `React` `ASP.NET Core` `Leaflet` `SQL Server` | [Ver Proyecto](https://github.com/miromero13/visor-datos-sig) |
-| **[SkillMatch | Intercambio de Habilidades](https://github.com/miromero13/skill-match)** | Plataforma SaaS de intercambio colaborativo con validación técnica por IA (AST, Audio espectral y Visión). | `React` `Python` `Motor IA` `Pasaporte QR` | [Ver Proyecto](https://github.com/miromero13/skill-match) |
+| **Diagrammer**<br><sub>Modelado UML con IA</sub> | Plataforma colaborativa en tiempo real con WebSockets y síntesis automática de código Spring Boot. | `React` `NestJS` `WebSockets` `Spring Boot` | [Ver Proyecto ↗](https://github.com/miromero13/diagrammer) |
+| **Design UI**<br><sub>Creador Visual de UI</sub> | Canvas drag-and-drop con Craft.js, síntesis de layouts con IA y exportación a código Flutter. | `React` `Craft.js` `NestJS` `OpenAI` | [Ver Proyecto ↗](https://github.com/miromero13/design-ui) |
+| **Visor Datos SIG**<br><sub>Visor Geoespacial SIG</sub> | Migración de datos espaciales Shapefile a SQL Server con visualizador cartográfico interactivo. | `React` `ASP.NET Core` `Leaflet` `SQL Server` | [Ver Proyecto ↗](https://github.com/miromero13/visor-datos-sig) |
+| **SkillMatch**<br><sub>Intercambio de Habilidades</sub> | Plataforma SaaS de intercambio colaborativo con validación técnica por IA (AST, Audio, Visión). | `React` `Python` `Motor IA` `Pasaporte QR` | [Ver Proyecto ↗](https://github.com/miromero13/skill-match) |
 
 </details>
 
