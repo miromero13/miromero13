@@ -81,12 +81,6 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromero13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="155" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miromero13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="60%" />
-</div>
-
 ---
 
 <details>
