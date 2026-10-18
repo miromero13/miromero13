@@ -76,9 +76,15 @@ I am a Software Engineer and Systems Engineering student at **UAGRM**, focused o
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miromero13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miromero13&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" height="155" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromero13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miromero13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="155" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miromero13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" width="60%" />
 </div>
 
 ---
